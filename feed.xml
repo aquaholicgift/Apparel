@@ -5,11 +5,11 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
 <meta name="DC.title" lang="en" content="Privacy Policy">
-<meta name="description" content="Step into style and comfort with our custom socks! Perfect for every occasion, our personalized socks blend creative design with quality materials. Ideal for gifts, promotions, or simply treating yourself, choose from endless colors and patterns to reflect your unique personality. Order now and add a personal touch to your wardrobe!">
+<meta name="description" content="Step into style and comfort with our personalized socks! Perfect for every occasion, our personalized socks blend creative design with quality materials. Ideal for gifts, promotions, or simply treating yourself, choose from endless colors and patterns to reflect your unique personality. Order now and add a personal touch to your wardrobe!">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="privacy-policy.html">
+<link rel="canonical" href="https://singaporecorporategifts.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/screenshot2023-07-24at14946pm.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,33 +18,25 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.navbar-toggler{
--webkit-align-self: flex-start;
--ms-flex-item-align: start;
-align-self: flex-start;
-padding: 0px 0px;
-font-size: 20.4px;
-line-height: 1;
-background: transparent;
-border: 1px solid transparent!important;
-border-radius: 0.25rem;
-}
-*{
-font-family: 'DM Sans', sans-serif;
+.c7563067a36af02b74b38562c3d9ec8a1 li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
 }
 .navbar{
 background: #ffffff;
 transition: none;
-min-height: 77.4px;
-padding-top: 10px;
-padding-bottom: 10.1px;
+min-height: 77.2px;
+padding-top: 9.6px;
+padding-bottom: 10px;
 position: relative;
 z-index: 1000;
-box-shadow: 0 0 14.7px 0 rgb(0 0 0 / 10%);
+box-shadow: 0 0 15.3px 0 rgb(0 0 0 / 10%);
 }
-.hamburger span:nth-child(2){
-top: 8px;
-transition: all 0.15s;
+*{
+font-family: 'DM Sans', sans-serif;
 }
 .dropdown-item{
 display: block;
@@ -57,106 +49,128 @@ white-space: nowrap;
 background-color: transparent;
 border: 0;
 }
-.nav-link:hover, .dropdown-item:hover{
-color: #000000 !important;
-background: none!important;
-opacity: .75;
-}
-.hamburger span:nth-child(1){
-top: 0;
-transition: all 0.2s;
-}
-html{
-scroll-behavior: smooth;
-}
-.b9675c88e6edf4edb6a78d396c1d47e71 ul{
-padding-left: 0px;
-}
-.dropdown-menu{
-max-width:800px;
-overflow-x: auto;
-}
-.u1a09e4e43189f41b9989fb547b18d17e,.u1a09e4e43189f41b9989fb547b18d17e:active{
-background-color:#ffffff!important;
-border-color:#000000!important;
-color:#000000!important;
-padding: 9.7px 19.5px!important;
-border-radius: 0;
-font-weight: 700!important;
-letter-spacing: 0px;
-transition-property: all;
-transition-duration: .2s;
-min-width: 200.5px !important;
-}
-.navbar-nav li:hover>.dropdown-menu{
-display: block;
-}
-.b9675c88e6edf4edb6a78d396c1d47e71 li{
-list-style: none;
-padding-left: 0;
-margin-top: 1.5rem;
-text-align: left;
-color: #000000;
-}
-.zccf82acda2ace9d76840cad527a31333{
-font-weight: 700 !important;
-}
-.b9675c88e6edf4edb6a78d396c1d47e71{
-padding-top: 4rem;
-padding-bottom: 6rem;
-background-color: #bedbe1;
-bottom: 0;
-z-index: 0;
-width: 100%;
-}
-a:hover, a:focus, a.active{
-color:#000000!important;
-}
-.u8108de3f1b82d3c6580c04a99effb54b i{
-font-size: 20.3px;
-padding: 10px;
-}
-.nav-link{
-color: #000000!important;
-}
-.dropdown .dropdown-menu .dropdown-item{
-width: auto;
-padding: 0.2em 1.3em 0.2em 1.3em !important;
-}
-.hamburger span{
-position: absolute;
-right: 0;
-width: 30.1px;
-height: 2px;
-border-right: 5px;
-background-color: #000000;
-}
-.b9675c88e6edf4edb6a78d396c1d47e71 .u794da08cafdfdd48ef6092eaf9ba58a8{
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding-top: 1.5rem;
-margin-top: 4rem;
-border-top: 2px solid #121212;
-}
-.b9675c88e6edf4edb6a78d396c1d47e71 *{
-color:#121212;
-font-size:20px!important;
-}
 a:hover{
 color:#000000!important;
 background: none!important;
 opacity: .75;
 text-decoration: none;
 }
-p, .x37428c20a19239778845dec95012838a{
+.cc2aba5b06ace7c6ef84ce9bc118b7691 i{
+font-size: 19.6px;
+padding: 10px;
+}
+.hamburger span:nth-child(3){
+top: 8px;
+transition: all 0.15s;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 49.6px;
+padding-top: 10.5px;
+box-shadow: 0 0 15.3px 0 rgb(0 0 0 / 10%);
+padding-bottom: 9.5px;
+text-align: left;
+}
+.hamburger span:nth-child(1){
+top: 0;
+transition: all 0.2s;
+}
+.ce1ed55f37046cd099e736050de6acbd9:hover, .ce1ed55f37046cd099e736050de6acbd9:focus, .ce1ed55f37046cd099e736050de6acbd9.focus, .ce1ed55f37046cd099e736050de6acbd9.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
+}
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 19.7px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
+}
+.hamburger span:nth-child(2){
+top: 8px;
+transition: all 0.15s;
+}
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
+}
+.fa-star,.fa-star-half-alt{
+font-size: 14.5px;
+}
+a{
+color: black;
+text-decoration: none;
+}
+html{
+scroll-behavior: smooth;
+}
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
+}
+.c7563067a36af02b74b38562c3d9ec8a1 *{
+color:#070707;
+font-size:20px!important;
+}
+.xf2198c056655435116ef2b9d3e23e771{
+font-weight: 700 !important;
+}
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+p, .fe8e41db90e4646e4fda0fefa18b523dd{
 font-size:20px;
 line-height: 1.68;
 font-weight: 400;
 }
+a:hover, a:focus, a.active{
+color:#000000!important;
+}
+.c7563067a36af02b74b38562c3d9ec8a1{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #c7e4ea;
+bottom: 0;
+z-index: 0;
+width: 100%;
+}
+.c7563067a36af02b74b38562c3d9ec8a1 ul{
+padding-left: 0px;
+}
+.hamburger span{
+position: absolute;
+right: 0;
+width: 30.4px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
+}
+.dropdown-menu{
+max-width:800px;
+overflow-x: auto;
+}
+.ce1ed55f37046cd099e736050de6acbd9,.ce1ed55f37046cd099e736050de6acbd9:active{
+background-color:#ffffff!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 10.5px 20.1px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 199.6px !important;
+}
 button.navbar-toggler{
-width: 31.5px;
-height: 18.5px;
+width: 30.8px;
+height: 17.9px;
 cursor: pointer;
 transition: all 0.2s;
 top: 2rem;
@@ -164,99 +178,85 @@ display: block;
 right: 1.5rem;
 position: absolute;
 }
-.hamburger span:nth-child(3){
-top: 8px;
-transition: all 0.15s;
-}
-.hamburger span:nth-child(4){
-top: 16px;
-transition: all 0.2s;
-}
-.u1a09e4e43189f41b9989fb547b18d17e:hover, .u1a09e4e43189f41b9989fb547b18d17e:focus, .u1a09e4e43189f41b9989fb547b18d17e.focus, .u1a09e4e43189f41b9989fb547b18d17e.active{
-color: #ffffff !important;
-background-color: #000000 !important;
-border-color: #000000 !important;
+.c7563067a36af02b74b38562c3d9ec8a1 a{
+color:#070707;
+text-decoration: underline;
 }
 .nav-item .nav-link{
 display: -webkit-flex;
 align-items: center;
-padding: 12.5px 0!important;
-margin: 0px 19.5px!important;
+padding: 12.4px 0!important;
+margin: 0px 20.3px!important;
 -webkit-align-items: center;
 }
-.b9675c88e6edf4edb6a78d396c1d47e71 a{
-color:#121212;
-text-decoration: underline;
+.c7563067a36af02b74b38562c3d9ec8a1 .f8accd4137bb469bbc9cd79ab825c0501{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #070707;
 }
-.dropdown .dropdown-menu{
-background: #ffffff;
-position: absolute;
-display: none;
-min-width: 50.3px;
-padding-top: 9.7px;
-box-shadow: 0 0 15.5px 0 rgb(0 0 0 / 10%);
-padding-bottom: 9.7px;
-text-align: left;
+.nav-link{
+color: #000000!important;
 }
-a{
-color: black;
-text-decoration: none;
-}
-.fa-star,.fa-star-half-alt{
-font-size: 15.1px;
+.nav-link:hover, .dropdown-item:hover{
+color: #000000 !important;
+background: none!important;
+opacity: .75;
 }
 </style>
 </head>
 <body>
-<nav class="px-md-5 navbar navbar-expand-lg">
-<a class="navbar-brand" href="printed-socks.html"  > 
+<nav class="navbar navbar-expand-lg px-md-5">
+<a class="navbar-brand" href="https://singaporecorporategifts.netlify.app/printed-socks.html"  > 
 <img alt="" src="img/screenshot2023-07-24at14946pm.png" width="100px" >
 </a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <div class="hamburger"><span></span><span></span><span></span><span></span></div>
 </button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto navbar-nav">
+<div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto">
 <li class="nav-item">
-<a class="nav-link x37428c20a19239778845dec95012838a" href="printed-socks.html" ><b>printed socks</b></a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd nav-link" href="https://singaporecorporategifts.netlify.app/printed-socks.html" ><b>printed socks</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link x37428c20a19239778845dec95012838a" href="custom-socks.html" ><b>custom socks</b></a>
+<a class="nav-link fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-socks.html" ><b>custom socks</b></a>
 </li>
 <li class="nav-item">
-<a class="x37428c20a19239778845dec95012838a nav-link" href="personalized-socks.html" ><b>personalized socks</b></a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd nav-link" href="https://singaporecorporategifts.netlify.app/personalized-socks.html" ><b>personalized socks</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link x37428c20a19239778845dec95012838a" href="socks-personalized.html" ><b>socks personalized</b></a>
+<a class="nav-link fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/socks-personalized.html" ><b>socks personalized</b></a>
 </li>
 <li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle x37428c20a19239778845dec95012838a" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="personalization-socks.html" >personalization socks</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-sock-printing.html" >custom sock printing</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-socks-with-logo.html" >custom socks with logo</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-printed-socks.html" >custom printed socks</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-made-socks.html" >custom made socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-socks-bulk.html" >custom socks bulk</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="design-your-own-socks.html" >design your own socks</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-crew-socks.html" >custom crew socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-socks-wholesale.html" >custom socks wholesale</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-athletic-socks.html" >custom athletic socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-branded-socks.html" >custom branded socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-embroidered-socks.html" >custom embroidered socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="promotional-socks.html" >promotional socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="design-socks.html" >design socks</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-sports-socks.html" >custom sports socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-soccer-socks.html" >custom soccer socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-football-socks.html" >custom football socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-cycling-socks.html" >custom cycling socks</a>
-<a class="dropdown-item x37428c20a19239778845dec95012838a" href="custom-team-socks.html" >custom team socks</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="logo-socks-bulk.html" >logo socks bulk</a>
-<a class="x37428c20a19239778845dec95012838a dropdown-item" href="custom-basketball-socks.html" >custom basketball socks</a>
+<a class="dropdown-toggle fe8e41db90e4646e4fda0fefa18b523dd nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/personalization-socks.html" >personalization socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-sock-printing.html" >custom sock printing</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-socks-with-logo.html" >custom socks with logo</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-printed-socks.html" >custom printed socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-made-socks.html" >custom made socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-socks-bulk.html" >custom socks bulk</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/design-your-own-socks.html" >design your own socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-crew-socks.html" >custom crew socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-socks-wholesale.html" >custom socks wholesale</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-athletic-socks.html" >custom athletic socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-branded-socks.html" >custom branded socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-embroidered-socks.html" >custom embroidered socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/promotional-socks.html" >promotional socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/design-socks.html" >design socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-sports-socks.html" >custom sports socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-soccer-socks.html" >custom soccer socks</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-football-socks.html" >custom football socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-cycling-socks.html" >custom cycling socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/custom-team-socks.html" >custom team socks</a>
+<a class="dropdown-item fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/logo-socks-bulk.html" >logo socks bulk</a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd dropdown-item" href="https://singaporecorporategifts.netlify.app/custom-basketball-socks.html" >custom basketball socks</a>
 </div>
-</li><li class="nav-item"><a class="x37428c20a19239778845dec95012838a nav-link" href="about-us.html"><b>About Us</b></a></li>
+</li><li class="nav-item"><a class="fe8e41db90e4646e4fda0fefa18b523dd nav-link" href="https://singaporecorporategifts.netlify.app/about-us.html"><b>About Us</b></a></li>
 <li class="nav-item">
-<a class="btn x37428c20a19239778845dec95012838a u1a09e4e43189f41b9989fb547b18d17e" href="https://www.aquaholic.com.sg/contact-us/" rel="nofollow"><b>Contact Us</b></a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd ce1ed55f37046cd099e736050de6acbd9 btn" href="https://www.aquaholic.com.sg/contact-us/" rel="nofollow"><b>Contact Us</b></a>
 </li>
 </ul>
 </div>
@@ -325,10 +325,10 @@ sales1@aquaholic.com.sg</br>
 </p>
 </section>
 </div>
-<footer class="b9675c88e6edf4edb6a78d396c1d47e71">
+<footer class="c7563067a36af02b74b38562c3d9ec8a1">
 <div class="container"><div class="row"><div class="col-lg-6">
-<h5 class="uf6869aa2729a4e87302bcb149e47c2ec zccf82acda2ace9d76840cad527a31333 mb-0 e632428b5af97e3bee598460003681640">Aquaholic</h5>
-<ul class="x37428c20a19239778845dec95012838a">
+<h5 class="xf2198c056655435116ef2b9d3e23e771 x602f130977267037b9fd9f5a0e81d18b mb-0 u04ca5dc5c0ed04452216de524134c528">Aquaholic</h5>
+<ul class="fe8e41db90e4646e4fda0fefa18b523dd">
 <li> Blk 5022 Ang Mo Kio Industrial Park 2 #03-37 </li>
 <li> sales1@aquaholic.com.sg</li>
 <li>+65 6589 8175</li> 
@@ -340,14 +340,14 @@ sales1@aquaholic.com.sg</br>
 <li>Company Website : <a class="text-break" href="https://www.aquaholic.com.sg/" rel="nofollow">https://www.aquaholic.com.sg/</a></li>
 </ul> 
 </div><div class="col-md-3">
-<h5 class="e632428b5af97e3bee598460003681640 mb-3 f8242e74c2793ee3138afc0e584d66131"><b>USEFUL LINKS</b></h5> 
-<ul class="x37428c20a19239778845dec95012838a">
+<h5 class="u04ca5dc5c0ed04452216de524134c528 mb-3 xbf77ba6ffe5938aa847c3ffd28fc0895"><b>USEFUL LINKS</b></h5> 
+<ul class="fe8e41db90e4646e4fda0fefa18b523dd">
 <li><a href="https://corporategiftsingapore.s3.amazonaws.com/apparel/custom-socks.html" rel="nofollow" target="_blank">Custom Socks</a></li><li><a href="https://singaporecorporategifts.blob.core.windows.net/singapore/apparel/custom-socks.html" rel="nofollow" target="_blank">Personalized Socks </a></li><li><a href="https://storage.googleapis.com/singaporecorporategifts/apparel/custom-socks.html" rel="nofollow" target="_blank">Printed Socks</a></li><li><a href="https://singapore.s3.ap-southeast-1.wasabisys.com/apparel/printed-socks.html" rel="nofollow" target="_blank">Socks Personalized </a></li><li><a href="https://corporategifts.s3.us-west-004.backblazeb2.com/apparel/printed-socks.html" rel="nofollow" target="_blank">Personalization Socks</a></li><li><a href="https://sites.google.com/view/customized-canvas-tote-bags"  target="_blank">Customized Canvas Tote Bags</a></li>
 <li><a href="https://singaporegifts.sgp1.vultrobjects.com/bag/custom-recycle-bag.html"  target="_blank">Custom Recycle Bag</a></li>
 </ul>
 </div><div class="col-lg-3">
 <ul class="mt-0">
-<h5 class="e632428b5af97e3bee598460003681640 mb-3 f8242e74c2793ee3138afc0e584d66131"><strong>LATEST BLOGPOSTS</strong></h5>
+<h5 class="u04ca5dc5c0ed04452216de524134c528 mb-3 xbf77ba6ffe5938aa847c3ffd28fc0895"><strong>LATEST BLOGPOSTS</strong></h5>
  
 <li><a href="https://bacchusmarshaus.xyz/2023/09/13/custom-jersey-singapore" rel="nofollow" target="_blank">Custom Jersey Singapore</a></li><li><a href="https://storage.googleapis.com/singaporeapparel/drifitshirt/custom-dri-fit-shirts.html" rel="nofollow" target="_blank">Dri fit polo tee printing singapore</a></li><li><a href="https://independentfashiondesigndaily.com/2023/11/04/uniform-supplier-singapore" rel="nofollow" target="_blank">Customised Uniform</a></li><li><a href="https://beaconsfieldaus.xyz/2023/10/26/custom-bomber-jacket"  target="_blank">Custom Bomber Jacket</a></li>
 <li><a href="https://sites.google.com/view/customized-canvas-tote-bags"  target="_blank">Customized Canvas Tote Bags</a></li>
@@ -363,19 +363,19 @@ sales1@aquaholic.com.sg</br>
 </ul>
 </div></div><div class="row">
 <div class="col-12">
-<div class="u794da08cafdfdd48ef6092eaf9ba58a8">
-<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
-<a class="x37428c20a19239778845dec95012838a" href="privacy-policy.html" rel="nofollow">Privacy Policy</a> 
-<a href="about-us.html" rel="nofollow">
+<div class="f8accd4137bb469bbc9cd79ab825c0501">
+<div><a href="https://singaporecorporategifts.netlify.app/sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="fe8e41db90e4646e4fda0fefa18b523dd" href="https://singaporecorporategifts.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+<a href="https://singaporecorporategifts.netlify.app/about-us.html" rel="nofollow">
 <b>About Us</b></a>
 </div><div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/CorporateGiftsAsia" class="u8108de3f1b82d3c6580c04a99effb54b facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/company/14385975/admin/" class="u8108de3f1b82d3c6580c04a99effb54b pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/aquaholicgifts/" class="u8108de3f1b82d3c6580c04a99effb54b google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/user/kohenghwee/" class="u8108de3f1b82d3c6580c04a99effb54b youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://twitter.com/EHKOH3" class="u8108de3f1b82d3c6580c04a99effb54b twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
-<a href="https://www.tumblr.com/blog/aquaholicgifts" class="u8108de3f1b82d3c6580c04a99effb54b tumblr" rel="nofollow"><i class="fa fa-tumblr"></i></a>
+<a href="https://www.facebook.com/CorporateGiftsAsia" class="cc2aba5b06ace7c6ef84ce9bc118b7691 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/14385975/admin/" class="cc2aba5b06ace7c6ef84ce9bc118b7691 pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/aquaholicgifts/" class="cc2aba5b06ace7c6ef84ce9bc118b7691 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/user/kohenghwee/" class="cc2aba5b06ace7c6ef84ce9bc118b7691 youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/EHKOH3" class="cc2aba5b06ace7c6ef84ce9bc118b7691 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.tumblr.com/blog/aquaholicgifts" class="cc2aba5b06ace7c6ef84ce9bc118b7691 tumblr" rel="nofollow"><i class="fa fa-tumblr"></i></a>
 </div></div>
 </div>
 </div></div>
